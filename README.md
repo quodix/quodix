@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm quodix</h1>
 <h3 align="center">A frontend and backend developer from Bavaria</h3>
 
-- 🔭 I’m currently working on [Nothing](https://github.com/quodix)
+- 🔭 I’m currently working on [Clickable Map GUI](https://github.com/quodix)
 
 - 🌱 I’m currently learning **Games developer (Java)**
 
